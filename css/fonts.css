@@ -1,0 +1,17 @@
+@font-face {
+    font-family: fonte01;
+    src: local('Cream Cake') format('otf'),
+    url('fontes/Cream Cake.otf')
+}
+
+@font-face{
+    font-family: fonte02;
+    src: local('Ananda Black Personal Use') format('ttf'),
+    url('fontes/Ananda Black Personal Use.ttf');
+}
+
+@font-face{
+    font-family: fonte03;
+    src: local('coolvetica condensed rg') format('otf'),
+    url('fontes/coolvetica condensed rg.otf');
+}
